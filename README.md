@@ -3,7 +3,7 @@ A Python script that bulk uploads pages to the Internet Archive via a specified 
 
 # Credit
 
-Credit to Koray Tuğberk GÜBÜR for the code and the idea: https://www.holisticseo.digital/python-seo/internet-archive/
+Inspired by this article: https://www.holisticseo.digital/python-seo/internet-archive/
 
 I only made a slight variation, using advertools to pull pages from a sitemap and to_list() over apply() and a lambda function when extracting URLs to iterate over. Purely a preference thing.
 
